@@ -8,11 +8,10 @@
     "prefer-stable": true,
     "require": {
         "composer-plugin-api": "^2.0",
-        "php": ">=8.0"
+        "php": ">=7.4"
     },
     "require-dev": {
         "composer/composer": "~2.0",
-        "openeuropa/code-review": "2.x-dev",
         "phpunit/phpunit": "^9",
         "symfony/console": "^4.4.30"
     },
